@@ -42,4 +42,6 @@
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 </dict>
+<key>NSContactsUsageDescription</key>
+<string>This app requires contacts access to function properly.</string>
 </plist>

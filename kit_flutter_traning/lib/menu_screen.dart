@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:kit_flutter_traning/Common/router_list.dart';
+import 'file:///C:/Users/TienThanh/Documents/DevLearn/Flutter/FlutterLearn/Kit_flutter/kit_flutter_traning/lib/Common/router_list.dart';
 
 class MenuApp extends StatelessWidget{
   @override
